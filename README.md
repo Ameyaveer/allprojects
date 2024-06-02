@@ -1,4 +1,4 @@
-Welcome to my GitHub repository! I'm a passionate machine learning and deep learning enthusiast. This repository is a collection of my projects, experiments, and learning exercises as I delve into the fascinating world of artificial intelligence. Here, you will find various implementations and explorations in machine learning and deep learning, ranging from basic algorithms to more advanced neural network models.
+Welcome to my GitHub repository! I'm a passionate machine learning and deep learning enthusiast, just fresh out of college. This repository is a collection of my projects, experiments, and learning exercises as I delve into the fascinating world of artificial intelligence. Here, you will find various implementations and explorations in machine learning and deep learning, ranging from basic algorithms to more advanced neural network models.
 
 ## Contents
 1. Machine Learning Projects
