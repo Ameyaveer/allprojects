@@ -1,0 +1,2 @@
+
+This NLP project focuses on developing a classifier to determine whether tweets describe actual disasters. The process involves preprocessing steps like text cleaning, tokenization, and removing stop words to refine the data. A machine learning model is then trained on these processed tweets to predict whether a tweet is about a real disaster (1) or not (0). This project applies practical NLP techniques to distinguish urgent communications during events like storms or earthquakes, enhancing response efforts by quickly identifying critical information shared on social media.
